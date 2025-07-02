@@ -15,3 +15,7 @@ provider "azurerm" {
 
 # Iss code mei maine kuch new changes kiye hashicorp
 # ab dekhte hai kya hota hai
+
+# Kya bhai kuch hua he nhi 
+# dekho kya hota hai
+# shayad ab ho jaye
